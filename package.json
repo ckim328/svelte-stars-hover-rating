@@ -16,28 +16,20 @@
   "keywords": [
     "svelte"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ckim328/svelte-stars-hover-rating"
+  },
+  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/ckim328/svelte-stars-hover-rating/issues"
+  },
   "files": [
     "src",
     "dist"
   ],
   "description": "Simple rating on hover component for Svelte",
-  "version": "1.0.1",
-  "dependencies": {
-    "function-bind": "^1.1.1",
-    "builtin-modules": "^3.2.0",
-    "has": "^1.0.3",
-    "estree-walker": "^1.0.1",
-    "deepmerge": "^4.2.2",
-    "fsevents": "^2.3.2",
-    "is-module": "^1.0.0",
-    "path-parse": "^1.0.7",
-    "picomatch": "^2.3.0",
-    "is-core-module": "^2.4.0",
-    "require-relative": "^0.8.7",
-    "resolve": "^1.20.0",
-    "rollup-pluginutils": "^2.8.2",
-    "sourcemap-codec": "^1.4.8"
-  },
+  "version": "1.0.4",
   "author": "Christine Kim",
   "license": "ISC"
 }

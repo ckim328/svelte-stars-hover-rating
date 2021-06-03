@@ -12,7 +12,7 @@ npm install svelte-stars-hover-rating
 If using Sapper (install as a dev dependency):
 
 ```bash 
-npm install -D svelte-stars-hover-rating"
+npm install -D svelte-stars-hover-rating
 ```
   
 And import it into your file:
