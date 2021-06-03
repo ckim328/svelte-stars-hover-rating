@@ -2,6 +2,10 @@
 
 _A Simple on hover rating component for svelte._
 
+_Demo_
+
+![demo](https://github.com/ckim328/svelte-stars-hover-rating/blob/master/demo.gif)
+
 ## To use 🔧
 If using Svelte:
 
