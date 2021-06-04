@@ -29,7 +29,7 @@
     "dist"
   ],
   "description": "Simple rating on hover component for Svelte",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "author": "Christine Kim",
   "license": "ISC"
 }

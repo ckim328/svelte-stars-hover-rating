@@ -1,10 +1,12 @@
+
+[![npm version](https://badge.fury.io/js/svelte-stars-hover-rating.svg)](https://badge.fury.io/js/svelte-stars-hover-rating)
 # Star Rating Component Svelte
 
 _A Simple on hover rating component for svelte._
 
 _Demo_
 
-![demo](https://github.com/ckim328/svelte-stars-hover-rating/blob/master/demo.gif)
+![demo](https://raw.githubusercontent.com/ckim328/svelte-stars-hover-rating/master/demo.gif?token=AIRW2DEWLSSCVT76AO2H54LAYKEUG)
 
 ## To use 🔧
 If using Svelte:
