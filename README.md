@@ -6,7 +6,7 @@ _A Simple on hover rating component for svelte._
 
 _Demo_
 
-![demo](https://raw.githubusercontent.com/ckim328/svelte-stars-hover-rating/master/demo.gif?token=AIRW2DEWLSSCVT76AO2H54LAYKEUG)
+![demo](https://raw.githubusercontent.com/ckim328/svelte-stars-hover-rating/master/demo.gif)
 
 ## To use 🔧
 If using Svelte:
